@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "君と僕の154小節戦争",
+  "base_artist": "美波",
+  "createdAt": "2026-01-13T23:38:34.511079Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君と僕の154小節戦争",
+      "artist": "美波",
+      "has_synced": true,
+      "path": "select/01_君と僕の154小節戦争_美波.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "君と僕の154小節戦争 - Kimi To Boku No 154 Shosetsu senso",
+      "artist": "minami",
+      "has_synced": true,
+      "path": "select/02_君と僕の154小節戦争_-_Kimi_To_Boku_No_154_Shosetsu_senso_minami.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君と僕の154小節戦争",
+      "artist": "Minami (美波）",
+      "has_synced": true,
+      "path": "select/03_君と僕の154小節戦争_Minami_(美波).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "君と僕の154小節戦争",
+      "artist": "Minami",
+      "has_synced": true,
+      "path": "select/04_君と僕の154小節戦争_Minami.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君と僕の154小節戦争",
+      "artist": "美波",
+      "has_synced": false,
+      "path": "select/pl_01_君と僕の154小節戦争_美波.txt"
+    }
+  ]
+}
